@@ -136,6 +136,11 @@ public class DetectorActivity extends CameraActivity implements OnImageAvailable
     //AudioManager audioManager = (AudioManager) getSystemService(Context.AUDIO_SERVICE);
     //audioManager.setSpeakerphoneOn(true);
 
+  /**
+   * prueba andres
+   * @param savedInstanceState
+   */
+
   @Override
   protected void onCreate(Bundle savedInstanceState) {
 
