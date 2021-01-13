@@ -65,15 +65,7 @@ import android.media.MediaPlayer;
 
 /**
  * An activity that uses a TensorFlowMultiBoxDetector and ObjectTracker to detect and then track
- * objects. AHORA AGREGAMOS CAMBIOS
- */
-
-/**
- * Este codigo ya sirve
- */
-
-/**
- * Segunda prueba
+ * objects. Cambios Finales
  */
 public class DetectorActivity extends CameraActivity implements OnImageAvailableListener {
   private static final Logger LOGGER = new Logger();
