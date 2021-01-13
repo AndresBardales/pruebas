@@ -63,7 +63,7 @@ import org.tensorflow.lite.examples.detection.env.ImageUtils;
 import org.tensorflow.lite.examples.detection.env.Logger;
 
 /**
- *
+ *Estoy agregando nuevas lineas a mi proyecto
  */
 public abstract class CameraActivity extends AppCompatActivity
         implements OnImageAvailableListener,
