@@ -71,6 +71,10 @@ import android.media.MediaPlayer;
 /**
  * Este codigo ya sirve
  */
+
+/**
+ * Segunda prueba
+ */
 public class DetectorActivity extends CameraActivity implements OnImageAvailableListener {
   private static final Logger LOGGER = new Logger();
 
